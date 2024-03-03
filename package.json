@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "start": "servor --reload"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
   }
 }
